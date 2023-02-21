@@ -8,3 +8,8 @@ body{
   width: 7em;
   margin: 0 auto;
 }
+
+a, a:hover, a:active, a:visited{
+  color: #FE2E64;
+  text-decoration: none;
+}
